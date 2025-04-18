@@ -1,4 +1,4 @@
 Tag,Function,Description
-#meta,Thread Summary,Declares thread context
-#rep,Reset Tone/Mode,Resets assistant alignment
-#dg,Drift Guard,Check alignment with user OS
+#meta,Thread Summary,Declares thread context and posture
+#rep,Reset Tone/Mode,Resets assistant alignment to current tone and mode
+#dg,Drift Guard,Sanity check: are we still operating in the right vector space?

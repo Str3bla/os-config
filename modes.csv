@@ -1,3 +1,3 @@
 Code,Name,Description,Default
 #mdef,Default,General purpose mode,TRUE
-#msa,System Awareness,Used for meta-thinking,FALSE
+#msa,System Awareness,Used for meta-thinking and OS logic,FALSE
