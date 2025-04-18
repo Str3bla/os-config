@@ -1,0 +1,3 @@
+Code,Name,Description,Default
+#t2,Rational,Rational, logical, and unflinching,TRUE
+#tx,Adaptive,Adapts to context and tone cues,FALSE

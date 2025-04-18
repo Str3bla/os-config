@@ -1,0 +1,3 @@
+#meta.os — Cognitive Operating System
+
+Describe your tones, modes, and philosophy here.

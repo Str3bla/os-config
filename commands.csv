@@ -1,0 +1,4 @@
+Tag,Function,Description
+#meta,Thread Summary,Declares thread context
+#rep,Reset Tone/Mode,Resets assistant alignment
+#dg,Drift Guard,Check alignment with user OS
